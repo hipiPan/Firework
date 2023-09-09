@@ -5,3 +5,6 @@
 
 ## Anti-aliasing
 [anti-aliasing](https://github.com/hipiPan/anti-aliasing)
+
+## Visibility-Buffer
+[visibility-buffer](https://github.com/hipiPan/visibility-buffer)
