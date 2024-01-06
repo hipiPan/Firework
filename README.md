@@ -11,3 +11,6 @@
 
 ## Position Based Dynamics
 [position_based_dynamics](https://github.com/hipiPan/position_based_dynamics)
+
+## Hair
+[hair](https://github.com/hipiPan/hair)
