@@ -14,3 +14,5 @@
 
 ## Hair
 [hair](https://github.com/hipiPan/hair)
+
+## Variable-Rate-Shading
